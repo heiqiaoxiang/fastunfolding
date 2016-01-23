@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: net.sf.py4j:py4j:0.8.2.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/sf/py4j/py4j/0.8.2.1/py4j-0.8.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

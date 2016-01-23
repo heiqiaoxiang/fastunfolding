@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.spark-project.spark:unused:1.0.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/spark-project/spark/unused/1.0.0/unused-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

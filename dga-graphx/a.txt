@@ -1,0 +1,27 @@
+sparkcontext = new SparkContext(local[2],graphX analytic)
+nodeweight: 4, 4
+nodeweight: 6, 4
+nodeweight: 8, 3
+nodeweight: 2, 4
+nodeweight: 1, 5
+nodeweight: 3, 4
+nodeweight: 7, 3
+nodeweight: 9, 3
+nodeweight: 5, 4
+nodeweight2: 4, 4
+nodeweight2: 6, 4
+nodeweight2: 8, 3
+nodeweight2: 2, 4
+nodeweight2: 1, 5
+nodeweight2: 3, 4
+nodeweight2: 7, 3
+nodeweight2: 9, 3
+nodeweight2: 5, 4
+
+Starting Louvain level 0
+totalEdgeWeight: 34
+  # vertices moved: 7
+  # vertices moved: 0
+
+Completed in 4 cycles
+Time in seconds: 7

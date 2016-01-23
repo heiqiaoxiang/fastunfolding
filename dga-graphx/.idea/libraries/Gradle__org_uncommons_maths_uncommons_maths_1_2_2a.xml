@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.uncommons.maths:uncommons-maths:1.2.2a">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/uncommons/maths/uncommons-maths/1.2.2a/uncommons-maths-1.2.2a.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

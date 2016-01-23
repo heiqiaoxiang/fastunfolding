@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: com.clearspring.analytics:stream:2.7.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/clearspring/analytics/stream/2.7.0/stream-2.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

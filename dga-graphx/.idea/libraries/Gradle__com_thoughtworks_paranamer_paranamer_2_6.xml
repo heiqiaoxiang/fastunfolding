@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: com.thoughtworks.paranamer:paranamer:2.6">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/thoughtworks/paranamer/paranamer/2.6/paranamer-2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

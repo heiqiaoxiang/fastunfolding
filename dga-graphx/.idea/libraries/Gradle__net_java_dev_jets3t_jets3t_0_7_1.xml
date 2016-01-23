@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: net.java.dev.jets3t:jets3t:0.7.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/java/dev/jets3t/jets3t/0.7.1/jets3t-0.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

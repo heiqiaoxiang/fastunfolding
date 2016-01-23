@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scala-lang:scalap:2.10.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scalap/2.10.0/ab42ae21d1fd7311b367fe3d7f33343f2e4bff6b/scalap-2.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scalap/2.10.0/d9adba6696fdafb487e2e3f6d9b5c04103e7ebc3/scalap-2.10.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

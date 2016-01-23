@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.json4s:json4s-core_2.10:3.2.10">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/json4s/json4s-core_2.10/3.2.10/json4s-core_2.10-3.2.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

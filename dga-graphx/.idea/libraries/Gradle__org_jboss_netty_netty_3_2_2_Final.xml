@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.netty:netty:3.2.2.Final">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/netty/netty/3.2.2.Final/netty-3.2.2.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
