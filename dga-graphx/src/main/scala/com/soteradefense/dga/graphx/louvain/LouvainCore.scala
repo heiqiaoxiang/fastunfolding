@@ -51,6 +51,7 @@ object LouvainCore {
         return louvainGraph
     }
 
+ 
 
     /**
       * Transform a graph from [VD,Long] to a a [VertexState,Long] graph and label each vertex with a community
